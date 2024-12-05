@@ -25,7 +25,9 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 
 
 # **Skills**
-{{< columns >}} <!-- begin columns block -->
+
+{{% columns %}} <!-- begin columns block -->
+
 ## *Core skills*
 - Information architecture
 - Artficial Intelligence 
@@ -62,7 +64,7 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 - MySQL
 - Text editors
 - MS Office
-{{< /columns >}}
+{{% /columns %}}
 
 # **Certifications** 
 - [**Microsoft Certified: Azure AI Fundamentals**](https://www.credly.com/badges/2a2f20d3-1f9e-40b4-9e0a-f06929ee3262/public_url)(2023)
